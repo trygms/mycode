@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(48, 199, 216);
+    background-image: url(bg.png);
+    color: rgb(40, 8, 77);
+    }
+    .kapsayici{
+        /* border: 2px solid chartreuse; */
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        text-align: left;
+        line-height: 2em;
+        background-color: rgb(98, 233, 245);
+        border-radius: 40px;
+        }
+
+
+.fotograf{
+   /* border: 2px solid chartreuse; */
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    background-color: rgb(98, 233, 245);
+    }
+
+h1{
+    font-family:'Lobster Two', cursive;
+    font-size: 50px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+img{
+    width: 600px;
+    border-radius: 400px;
+}
+
+#icerik{
+    /* border: 2px solid chartreuse; */
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: justify;
+    line-height: 2em;
+    background-color: rgb(98, 233, 245);
+    }
+
+#listeli{
+    /* border: 2px solid chartreuse; */
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: left;
+    line-height: 2em;
+    background-color: rgb(98, 233, 245);
+    }
+
+#footer{
+        /* border: 2px solid chartreuse; */
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+        line-height: 2em;
+        background-color: rgb(10, 64, 69);
+        color: white;
+        text-decoration: none;
+        border-radius: 40px;
+        text-align: center;
+        }
+#link{
+border: 1px solid rgb(230, 240, 244);
+            color: white;
+            text-decoration: none;
+            border-radius: 2px;
+            }
+
+#link:hover{
+background-color: firebrick;
+    color: rgb(247, 249, 251);
+}
